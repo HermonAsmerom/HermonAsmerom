@@ -1,6 +1,6 @@
 # Hi, I'm Hermon 👋
 
-I'm an entry-level professional with experience in digital campaign coordination, AR content development, data tracking, and stakeholder communication — currently building hands-on technical skills in cloud, data, and automation.
+I'm an entry-level professional with experience in digital campaign coordination, AR content development, data tracking, and stakeholder communication, currently building hands-on technical skills in cloud, data, and automation.
 
 ---
 
