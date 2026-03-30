@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Hermon 👋
 
-<!--
-**HermonAsmerom/HermonAsmerom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an entry-level professional with experience in digital campaign coordination, AR content development, data tracking, and stakeholder communication — currently building hands-on technical skills in cloud, data, and automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗂️ Portfolio Projects
+
+| Project | Skills | Description |
+|---|---|---|
+| [Python Automation](./python-automation) | Python, Pandas, Gmail API | File sorting + automated email reports |
+| [SQL Data Analysis](./sql-data-analysis) | SQL, Data Analysis | E-commerce order analysis + business insights |
+| [AWS Cloud Project](./aws-cloud-project) | AWS S3, CloudFront, IAM | Fully deployed static website on AWS |
+| [Campaign Dashboard](./dashboard-analytics) | Excel, Data Storytelling | KPI dashboard for digital campaign reporting |
+| [Troubleshooting Lab](./troubleshooting-lab) | Linux, Nginx, AWS EC2 | Hands-on server diagnostics and fixes |
+| [Snap AR Lens](./snap-ar-project) | Lens Studio, JavaScript | Interactive AR lens with face tracking |
+
+---
+
+## 🛠️ Tech Stack
+
+`Python` `SQL` `AWS` `Linux` `Excel` `Pandas` `Snap Lens Studio` `Bash` `Git`
+
+---
+
+## 📌 About Me
+
+- 🎯 Long-term goal: Specialist in **retail media and data**
+- 📍 Based in London
+- 💼 Experience at Snap Inc., Africa Travel Connect, EriEthioConnect
+- 🌱 Always learning — currently focused on cloud infrastructure and ecommerce analytics
+
+---
+
+## 📬 Connect
+
+[LinkedIn](https://linkedin.com/in/hermonasmerom) 
