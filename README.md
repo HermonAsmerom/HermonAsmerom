@@ -34,4 +34,4 @@ I'm an entry-level professional with experience in digital campaign coordination
 
 ## 📬 Connect
 
-[LinkedIn](https://linkedin.com/in/hermonasmerom) 
+[LinkedIn](https://linkedin.com/in/hermon-asmerom) 
